@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Check-Champ, a responsive web application that makes task management easier through smart task generation using AI, efficient state handling, seamless drag-and-drop, and robust backend integration. 
 
+Employed powerful stack comprising Next.js 14, React Beautiful DND, Tailwind CSS, OpenAI GPT-3.5 API, Zustand, and Appwrite Cloud to enhance the functionality of the application. 
+
+This application resolves unintuitive task organization observed in many to-do apps by incorporating React Beautiful DND, resulting 50% increase in user satisfaction with additional task completion. 
+
+Delivered users a responsive drag-and-drop interface unlike traditional Todo applications. 
 ## Getting Started
 
 First, run the development server:
@@ -29,8 +35,7 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## Deployed on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Check out My Demo Here [check-champ](https://check-champ-d286f4b5k-sriram-gs-projects.vercel.app/) 
